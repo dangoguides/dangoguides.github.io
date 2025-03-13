@@ -2,7 +2,7 @@ remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
 plugins:
 - jekyll-remote-theme
 
-title: DangoGuides en Español
+title: DangoGuides
 author: Bruno-chanrio
 logo: DangoPlayerUni_Logo.png
 
