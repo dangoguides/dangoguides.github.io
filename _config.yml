@@ -15,6 +15,8 @@ themeColor: purple
 fixedNav: 'true' # true or false
 developedby: true
 
+github: brunochanrio
+
 permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, vendor]
