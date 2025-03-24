@@ -4,18 +4,19 @@ plugins:
 
 title: DangoGuides
 author: Bruno-chanrio
-logo: DangoPlayerUni_Logo.png
+logo: assets/DangoPlayerUni_Logo.png
+mobilelogo: assets/DangoPlayerUni_Icon.png
 
 
 
 baseurl: "/"
-color: "#1DE9B6"
-accentColor: teal
-themeColor: purple
+color: "#FF7FAC"
+accentColor: pink
+themeColor: pink
 fixedNav: 'true' # true or false
 developedby: true
 
-github: brunochanrio
+github_user: brunochanrio
 
 permalink: /:year/:title/
 markdown: kramdown
